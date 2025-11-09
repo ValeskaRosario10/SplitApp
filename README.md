@@ -10,14 +10,14 @@
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
     <br />
-    <a href="https://github.com/tuzup/SplitApp/"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/tuzup/SplitApp/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://splitapp-rnjo.onrender.com/">View Demo</a>
     ·
     <a href="https://github.com/tuzup/SplitApp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tuzup/SplitApp/issues">Request Feature</a>
+    <a href="https://github.com/tuzup/SplitApp/issues">Request Feature</a> -->
   </p>
 </div>
 
