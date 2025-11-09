@@ -41,7 +41,7 @@ export default function Page404() {
           </Button>
 
           <Stack spacing={3} sx={{mt: 5}}>
-                <Copyright/>
+                {/* <Copyright/> */}
             </Stack> 
         </ContentStyle>
       </Container>

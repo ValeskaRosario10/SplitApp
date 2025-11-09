@@ -41,7 +41,7 @@ export default function PageUserDeleted() {
           </Button>
 
           <Stack spacing={3} sx={{mt: 5}}>
-                <Copyright/>
+                {/* <Copyright/> */}
             </Stack> 
         </ContentStyle>
       </Container>
