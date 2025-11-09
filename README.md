@@ -21,7 +21,7 @@
   </p>
 </div>
 
-![SplitApp](https://raw.githubusercontent.com/tuzup/SplitApp/master/Screenshots/dashboard-main-transparent.png)
+![SplitApp](https://github.com/ValeskaRosario10/SplitApp/blob/cd26f2fece17f5e25464e40d7cd112a327ba196a/Screenshots/image.png)
 
 ## MERN Stack Group Expense Splitting Application
 
